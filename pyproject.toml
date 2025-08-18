@@ -1,0 +1,6 @@
+[project]
+name = "handson-llm"
+version = "0.1.0"
+description = "Practice LLM"
+requires-python = ">=3.13"
+dependencies = []
